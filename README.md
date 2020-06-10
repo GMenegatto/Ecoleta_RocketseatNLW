@@ -15,7 +15,7 @@
 
 <h3 align="center">
 
-♻️ Ecoleta é um projeto Open Source desenvolvido durante a Next Level Week (1.0) da Rocketseat utilizando as tecnologias TypeScript, NodeJS, React e React Native.
+♻️ Ecoleta é um projeto desenvolvido durante a Next Level Week da Rocketseat utilizando as tecnologias TypeScript, NodeJS, React e React Native.
 
 </h3>
 
@@ -80,8 +80,6 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
 - Maps: **[Leaflet][leaflet]**
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
