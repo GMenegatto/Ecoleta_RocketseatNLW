@@ -103,11 +103,7 @@ $ npm install create-react-app -g
 $ npm install -g expo-cli 
 ```
 
-Você precisa renomear o arquivo `.env-example` para `.env` e inserir as informações que condizem com o seu **host**:
 
-```sh
-$ mv .env-example .env
-```
 
 Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits), no diretório do **server**, no diretório do **website** e no diretório **mobile**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
 
@@ -187,7 +183,6 @@ Se tiver algum problema com as fontes, utilize o comando:
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 ```
 
-**\* Lembre de inserir no arquivo `.env` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
 
 
 
