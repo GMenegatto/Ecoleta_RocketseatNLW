@@ -83,7 +83,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
 
-## **:wine_glass: COMO UTILIZAR**
+## **:sunglasses: COMO UTILIZAR**
 
 ### Configurações Iniciais
 
