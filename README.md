@@ -191,10 +191,6 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 <!-- Badges -->
 
-[github_issues_badge]: https://img.shields.io/github/issues/x0n4d0/ecoleta?color=green
-
-[repository_license_badge]: https://img.shields.io/github/license/x0n4d0/ecoleta
-
 [node_version_badge]: https://img.shields.io/badge/node-12.17.0-green
 
 [npm_version_badge]: https://img.shields.io/badge/npm-6.14.4-red
