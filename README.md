@@ -15,7 +15,7 @@
 
 <h3 align="center">
 
-♻️ Ecoleta é um projeto desenvolvido durante a Next Level Week da Rocketseat utilizando as tecnologias TypeScript, NodeJS, React e React Native.
+Ecoleta é um projeto desenvolvido durante a Next Level Week da Rocketseat utilizando as tecnologias TypeScript, NodeJS, React e React Native.
 
 </h3>
 
