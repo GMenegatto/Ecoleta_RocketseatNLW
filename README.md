@@ -105,7 +105,7 @@ $ npm install -g expo-cli
 
 
 
-Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório (para o gerenciamento de commits), no diretório do **server**, no diretório do **website** e no diretório **mobile**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
+Instale as dependências contidas nos arquivos `package.json` que se encontram no diretório do **server**, no diretório do **website** e no diretório **mobile**. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
 
 ```sh
 $ npm install
